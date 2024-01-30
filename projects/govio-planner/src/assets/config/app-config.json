@@ -12,7 +12,7 @@
     },
 
     "GOVAPI": {
-      "HOST": "https://govhub.comune.bari.it/govshell-reverse-proxy/govio-planner/api/v1",
+      "HOST": "https://govhub.comune.bari.it/govhub-reverse-proxy/govio-planner/api/v1",
       "LOGOUT_URL": "/logout"
     },
 
@@ -38,7 +38,7 @@
 
     "Layout": {
       "Login": {
-        "title": "GovIO",
+        "title": "GovIO-Planner",
         "logo": "linkit_logo/linkit_logo_2x.png",
         "header": "linkit_logo/linkit_logo_2x.png"
       },
